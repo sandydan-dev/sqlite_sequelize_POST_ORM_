@@ -1,0 +1,26 @@
+{
+  "name": "working_with_music_track_orm",
+  "version": "1.0.0",
+  "description": "creating music track and working with sqliteDB and wrap it into sequelize orm",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "sqlite3",
+    "sequelize",
+    "cors"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}

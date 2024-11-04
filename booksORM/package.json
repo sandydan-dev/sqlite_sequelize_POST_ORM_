@@ -1,0 +1,25 @@
+{
+  "name": "create_book_store",
+  "version": "1.0.0",
+  "description": "creating books store with sequelize wrapper with sqlitedb",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "sequelize",
+    "sqlite3"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
